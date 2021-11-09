@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Mark den Toom</h1>
-<h3 align="center">A :netherlands: software developer :computer: from Gorinchem 🧀</h3>
+<h3 align="center">A :netherlands: software developer :computer: from Gorinchem, the Netherlands 🧀</h3>
 <h3 align="center">Working :man_technologist: at <a href="https://www.ispnext.com/en/">ISPnext</a></h3>
 
 <p align="left"> 
