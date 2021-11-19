@@ -13,8 +13,4 @@
 - How to reach me | markdentoom@outlook.com
 - A summary of the above | <a href="https://markdentoom.com/CV%20Mark%20den%20Toom.pdf" target="_blank">Resume</a>
 
-<h3 align="left">My random GitHub stats</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkdenToom&show_icons=true&locale=en&layout=compact" alt="MarkdenToom" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkdenToom&" alt="MarkdenToom" /></p>
+Or scroll down to dive directly into some of my projects 👇
