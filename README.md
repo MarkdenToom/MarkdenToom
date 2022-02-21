@@ -13,4 +13,4 @@
 - How to reach me | markdentoom@outlook.com
 - A summary of the above | <a href="https://markdentoom.com/CV%20Mark%20den%20Toom.pdf" target="_blank">Resume</a>
 
-Or scroll down to dive directly into my pinned projects 👇
+Or dive directly into my pinned projects 👇
