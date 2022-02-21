@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Mark den Toom</h1>
-<h3 align="center">A :netherlands: software developer :computer: from Gorinchem, the Netherlands 🧀</h3>
-<h3 align="center">Working :man_technologist: at <a href="https://www.ispnext.com/en/">ISPnext</a></h3>
+<h3 align="center">A Dutch :netherlands: software developer :computer: from Leerdam, the Netherlands 🧀</h3>
+<h3 align="center">Working :man_technologist: at <a href="https://team.blue/">team.blue</a></h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=MarkdenToom&label=Profile%20views&color=0e75b6&style=flat" alt="MarkdenToom" />
@@ -13,4 +13,4 @@
 - How to reach me | markdentoom@outlook.com
 - A summary of the above | <a href="https://markdentoom.com/CV%20Mark%20den%20Toom.pdf" target="_blank">Resume</a>
 
-Or scroll down to dive directly into some of my projects 👇
+Or scroll down to dive directly into my pinned projects 👇
