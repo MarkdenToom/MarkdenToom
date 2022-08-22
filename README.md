@@ -10,6 +10,6 @@
 
 - My experience | <a href="https://www.linkedin.com/in/markdentoom/" target="_blank">LinkedIn</a>
 - How to reach me | markdentoom@outlook.com
-- A summary of the above | <a href="https://markdentoom.com/CV%20Mark%20den%20Toom.pdf" target="_blank">Resume</a>
+- A summary of the above | <a href="https://drive.google.com/file/d/1FpVwqaYKZq7jFcOOFmdjrTBgyiXnNuzB/view?usp=sharing" target="_blank">Resume</a>
 
 Or dive directly into my pinned projects 👇
