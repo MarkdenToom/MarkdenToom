@@ -1,15 +1,14 @@
-<h1 align="center">Hello! 👋 I'm Mark den Toom</h1>
-<h3 align="center">A Dutch :netherlands: software developer :computer: from Leerdam, the Netherlands 🧀</h3>
-<h3 align="center">Working :man_technologist: at <a href="https://team.blue/">team.blue</a></h3>
+<h1 align="center">Hello world, I'm Mark!</h1>
+<h3 align="center">A Full Stack Engineer from :netherlands: the Netherlands</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=MarkdenToom&label=Profile%20views&color=0e75b6&style=flat" alt="MarkdenToom" />
 </p>
 
-<h3 align="left">Learn more about...</h3>
+<h3 align="left">Get in touch with me...</h3>
 
-- My experience | <a href="https://www.linkedin.com/in/markdentoom/" target="_blank">LinkedIn</a>
-- How to reach me | markdentoom@outlook.com
-- A summary of the above | <a href="https://drive.google.com/file/d/1FpVwqaYKZq7jFcOOFmdjrTBgyiXnNuzB/view?usp=sharing" target="_blank">Resume</a>
+- <a href="https://www.linkedin.com/in/markdentoom/" target="_blank">LinkedIn</a>
+- markdentoom@outlook.com
 
-Or dive directly into my pinned projects 👇
+
+Or have a look at some of my public projects 👇
