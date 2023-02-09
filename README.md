@@ -9,4 +9,4 @@
 
 **Get in touch with me on [LinkedIn](https://www.linkedin.com/in/markdentoom/) or by sending me an email at markdentoom@outlook.com**
 
-Or have a look at some of my public projects 👇
+Or have a look at some of the little pet projects I made to practice my skills 👇
