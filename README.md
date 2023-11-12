@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Mark!</h1>
+<h1 align="center">Hello world, I'm Mark! 👋</h1>
 <h3 align="center">
   A Full Stack Engineer from :netherlands: the Netherlands
 </h3>
